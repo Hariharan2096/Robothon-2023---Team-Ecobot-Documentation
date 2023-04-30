@@ -2,7 +2,7 @@
 
 
 QUICK START GUIDE:
-1.	Turn on the robot controller and bring the robot to the camera pose for capturing the task board.
+    1.	Turn on the robot controller and bring the robot to the camera pose for capturing the task board.
 2.	Connect to robot IP using wireless/wired connection and switch to remote control mode in teach pendent.
 3.	Open Visual Studio Code and load the workspace where the main Python program is present.
 4.	Position the task board sturdily on the workbench using the velcro strips and connect the camera and task board to the workstation.
