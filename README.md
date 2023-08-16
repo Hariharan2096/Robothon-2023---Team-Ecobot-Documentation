@@ -39,3 +39,10 @@ The solution to the challenge is mainly dependent on the following software,
         -	All the features in the taskboard such as the blue button, slider location, and probe test port are calculated from the red button centre using mathematical and geometric methods.
     -	The robot will start the trial by pushing the blue button and continue to execute the tasks in the order specified.
     -	Once the task execution is completed, the robot will finish the trial by pushing the red button.
+
+## AUTHORS:
+
+*   Hariharan Thangaraj
+*   Srinivasan Balasubramanian
+*   Sahith Kalisety
+*   Jesu John Joles Thadeus
